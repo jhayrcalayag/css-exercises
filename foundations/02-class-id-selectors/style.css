@@ -1,0 +1,19 @@
+.regclass {
+  background-color: lightpink;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#regid {
+  color: blue;
+  font-size: 36px;
+}
+
+.coolclass {
+  font-size: 24px;
+}
+
+#otherid {
+  background-color:  rgb(122, 244, 130);
+  font-size: 24px;
+  font-weight: bold;
+}
